@@ -48,7 +48,7 @@ The `demo` service is started when the `compile` service exits successfully and 
 All the following commands must be run from the root of this project.
 
 The available docker service are the following:
-
+de
 * `demo` (that starts `demo.launch.py`)
 * `challenge1` (that starts `challenge1.launch.py`)
 * `challenge2` (that starts `challenge2.launch.py`)

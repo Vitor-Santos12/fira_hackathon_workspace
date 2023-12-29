@@ -3,4 +3,4 @@ version: '3.4'
 # This file allows to execute docker compose commands from the root of this project.
 # The real compose file is in the 'docker' directory.
 include:
-  - . ./docker/compose.yml
+  - ./docker/compose.yml
